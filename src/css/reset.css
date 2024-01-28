@@ -1,0 +1,13 @@
+* {
+    /*o símbolo '*' significa o seletor universal, isto é, para o código todo */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
